@@ -1,0 +1,1 @@
+acs,ahajournals,ams,arxiv,biorxiv,bmj,cdc,cshlp,fda,iaea,mdpi,medrxiv,nature,nejm,nih,nlm,osti,oup,rsc,sciencedirect,ssrn,ssrn,vixra,wiley,
